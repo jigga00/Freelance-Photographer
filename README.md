@@ -1,1 +1,1 @@
-# Freelance-Photographer
+Here is my Per Scholas three page website. I made a freelance photographer with HTML and CSS, I attempt to make it have a New York City, black and white hip-hop theme I hope you take a liking to my website. 
